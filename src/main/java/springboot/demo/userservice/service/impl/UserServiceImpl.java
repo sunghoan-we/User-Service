@@ -1,11 +1,11 @@
-package springboot.demo.userService.service.impl;
+package springboot.demo.userservice.service.impl;
 
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
-import springboot.demo.userService.dto.UserDto;
-import springboot.demo.userService.entity.User;
-import springboot.demo.userService.repository.UserRepository;
-import springboot.demo.userService.service.UserService;
+import springboot.demo.userservice.dto.UserDto;
+import springboot.demo.userservice.entity.User;
+import springboot.demo.userservice.repository.UserRepository;
+import springboot.demo.userservice.service.UserService;
 
 import java.util.Optional;
 

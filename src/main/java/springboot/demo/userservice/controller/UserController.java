@@ -1,11 +1,11 @@
-package springboot.demo.userService.controller;
+package springboot.demo.userservice.controller;
 
 import lombok.AllArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import springboot.demo.userService.dto.UserDto;
-import springboot.demo.userService.service.UserService;
+import springboot.demo.userservice.dto.UserDto;
+import springboot.demo.userservice.service.UserService;
 
 @RestController
 @RequestMapping("api/user")

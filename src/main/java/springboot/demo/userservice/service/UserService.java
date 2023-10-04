@@ -1,6 +1,6 @@
-package springboot.demo.userService.service;
+package springboot.demo.userservice.service;
 
-import springboot.demo.userService.dto.UserDto;
+import springboot.demo.userservice.dto.UserDto;
 
 public interface UserService {
     UserDto addUser(UserDto userDto);

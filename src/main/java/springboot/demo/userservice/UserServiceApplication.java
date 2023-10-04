@@ -1,4 +1,4 @@
-package springboot.demo.userService;
+package springboot.demo.userservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
